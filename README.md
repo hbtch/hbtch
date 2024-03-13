@@ -1,6 +1,17 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VIPdgcooFJHtC/giphy.gif?cid=82a1493brpcs56e71ami6t0xgm6crws8f63j010q8c5llh9c&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b761133uxs2cao18p5fcwevgygo4cvjntno0xg1i1r83x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/gulnaz-baembitova-413718298/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 <!--
 **hbtch/hbtch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
