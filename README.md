@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761133uxs2cao18p5fcwevgygo4cvjntno0xg1i1r83x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
   <div id="badges">
