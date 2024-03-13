@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VIPdgcooFJHtC/giphy.gif?cid=82a1493brpcs56e71ami6t0xgm6crws8f63j010q8c5llh9c&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100"/>
+</div>
 <!--
 **hbtch/hbtch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
