@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/gulnaz-baembitova-413718298/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/hbtchss">
+  <a href="https://t.me/hbtchss">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
