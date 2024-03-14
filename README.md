@@ -43,3 +43,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbtch&theme=cobalt&show_icons=true)
