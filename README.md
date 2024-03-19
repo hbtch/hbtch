@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-  <img src="![](https://komarev.com/ghpvc/?username=your-github-hbtch&color=green)"/>
+  </div>
+   <img src="https://komarev.com/ghpvc/?username=hbtch&style=flat-square&color=blue" alt=""/>
+</div>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
