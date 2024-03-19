@@ -51,5 +51,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbtch&theme=cobalt&show_icons=true)
-###Thank you for visiting my profile!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbtch&theme=cobalt&show_icons=true)<br>
+### Thank you for visiting my profile!
