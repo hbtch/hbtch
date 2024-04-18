@@ -18,7 +18,7 @@
 </div>
 
 ---
-#### [Hackathon Memory Game (HTML5, CSS3, JS)](https://github.com/hbtch/pet-project-2.git)
+#### [Juniors' Hackathon 2023 (Memory Game) (HTML5, CSS3, JS)](https://github.com/hbtch/pet-project-2.git)
 #### [Team project (A website for lawyers) (HTML5, CSS3, SCSS)](https://github.com/hbtch/team-project.git)
 #### [Team project (A travel website ) (HTML5, CSS3, SCSS)](https://github.com/hbtch/pet-project.git)
   <h1>
