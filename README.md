@@ -19,8 +19,8 @@
 
 ---
 #### [Hackathon Memory Game (HTML5, CSS3, JS)](https://github.com/hbtch/pet-project-2.git)
-#### [Team project (HTML5, CSS3, SCSS)](https://github.com/hbtch/team-project.git)
-#### [Team project (HTML5, CSS3, SCSS)](https://github.com/hbtch/pet-project.git)
+#### [Team project (A website for lawyers) (HTML5, CSS3, SCSS)](https://github.com/hbtch/team-project.git)
+#### [Team project (A travel website ) (HTML5, CSS3, SCSS)](https://github.com/hbtch/pet-project.git)
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
