@@ -23,7 +23,6 @@
 #### [Team project (A travel website ) (HTML5, CSS3, SCSS)](https://github.com/hbtch/pet-project.git)
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
