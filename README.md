@@ -25,9 +25,6 @@
     hey there
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611xjakpllr16sexiljxnb9p31z71qybufiy9zc9uqc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div>
 
 ---
 
