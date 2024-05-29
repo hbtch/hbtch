@@ -24,7 +24,9 @@
 #### [Team project (A website for lawyers) (HTML5, CSS3, SCSS)](https://github.com/hbtch/team-project.git)
 #### [Team project (A travel website ) (HTML5, CSS3, SCSS)](https://github.com/hbtch/pet-project.git)
 
-
+### Css master classes:
+#### [Mouse-on-css (HTML5, CSS3)](https://github.com/hbtch/mouse-on-css.git)
+#### [Pumkin-in-css (HTML5, CSS3)](https://github.com/hbtch/pumpkin-in-css.git)
 
 ---
 
