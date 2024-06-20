@@ -20,6 +20,7 @@
 ---
 
 ### My Pet Projects:
+#### [ToDoPlanner (React)](https://github.com/hbtch/ToDoPlanner.git)
 #### [Juniors' Hackathon 2023 (Memory Game) (HTML5, CSS3, JS)](https://github.com/hbtch/pet-project-2.git)
 
 ### Projects performed at workshops:
