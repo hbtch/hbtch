@@ -17,7 +17,6 @@
    <img src="https://komarev.com/ghpvc/?username=hbtch&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
----
 
 ### My Pet Projects:
 #### [ToDoPlanner (React)](https://github.com/hbtch/ToDoPlanner.git)
