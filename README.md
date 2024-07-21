@@ -1,7 +1,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
 
----
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761133uxs2cao18p5fcwevgygo4cvjntno0xg1i1r83x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
@@ -18,16 +17,6 @@
 </div>
 </div>
 
-### My Pet Projects:
-#### [ToDoPlanner (React)](https://github.com/hbtch/ToDoPlanner.git)
-#### [Juniors' Hackathon 2023 (Memory Game) (HTML5, CSS3, JS)](https://github.com/hbtch/pet-project-2.git)
-#### [Website for a law firm. (HTML5, CSS3)](https://github.com/hbtch/team-project.git)
-
-### Projects performed at workshops:
-#### [Mouse-on-css (HTML5, CSS3)](https://github.com/hbtch/mouse-on-css.git)
-#### [Pumkin-in-css (HTML5, CSS3)](https://github.com/hbtch/pumpkin-in-css.git)
-
----
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
