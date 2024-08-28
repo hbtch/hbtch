@@ -13,6 +13,7 @@
 </div>
 
 #### [ToDo-list (React)](https://github.com/hbtch/ToDoPlanner.git)
+#### [Planner for Red Collar (React)](https://github.com/hbtch/PlannerEvent-for-redcollar.git)
 #### [Сайт для магазина спортивных товаров (HTML, SCSS, Vite)](https://github.com/hbtch/vite-project.git)
 
 ### :woman_technologist: About Me :
