@@ -12,6 +12,7 @@
 </div>
 </div>
 
+#### [Сайт для магазина спортивных товаров (HTML, SCSS, Vite)](https://github.com/hbtch/vite-project.git)
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
