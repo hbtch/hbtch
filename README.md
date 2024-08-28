@@ -12,8 +12,8 @@
 </div>
 </div>
 
-#### [ToDo-list (React,CSS-in-JS,Create React App)](https://github.com/hbtch/ToDoPlanner.git)
-#### [Planner for Red Collar (React, CSS-in-JS,Create React App)](https://github.com/hbtch/PlannerEvent-for-redcollar.git)
+#### [ToDo-list (React,CSS-in-JS, Create React App)](https://github.com/hbtch/ToDoPlanner.git)
+#### [Planner for Red Collar (React, CSS-in-JS, Create React App)](https://github.com/hbtch/PlannerEvent-for-redcollar.git)
 #### [Сайт для магазина спортивных товаров (HTML, SCSS, Vite)](https://github.com/hbtch/vite-project.git)
 #### [Игра "Memory game" для благотворительного хакатона (HTML,CSS, Vanilla JS)](https://github.com/hbtch/pet-project-2.git)
 
