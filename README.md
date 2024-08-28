@@ -12,6 +12,7 @@
 </div>
 </div>
 
+#### [ToDo-list (React)](https://github.com/hbtch/ToDoPlanner.git)
 #### [Сайт для магазина спортивных товаров (HTML, SCSS, Vite)](https://github.com/hbtch/vite-project.git)
 
 ### :woman_technologist: About Me :
