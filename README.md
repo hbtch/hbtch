@@ -13,6 +13,7 @@
 </div>
 
 #### [Веб-сайт для  благотворительного хакатона Натальи Давыдовой (HTML, SCSS, JS, Vite)](https://github.com/hbtch/HackathonLayout.git)
+#### [Веб-сайт для психолога Елены Швец] (HTML, CSS, JS) (https://github.com/hbtch/website-for-psychologist.git)
 #### [ToDo-list (React, CSS-in-JS, Create React App)](https://github.com/hbtch/ToDoPlanner.git)
 #### [Planner for Red Collar (React, CSS-in-JS, Create React App)](https://github.com/hbtch/PlannerEvent-for-redcollar.git)
 #### [Сайт для магазина спортивных товаров (HTML, SCSS, Vite)](https://github.com/hbtch/vite-project.git)
