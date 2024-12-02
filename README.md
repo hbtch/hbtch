@@ -18,6 +18,7 @@
 #### [Planner for Red Collar (React, CSS-in-JS, Create React App)](https://github.com/hbtch/PlannerEvent-for-redcollar.git)
 #### [Сайт для магазина спортивных товаров (HTML, SCSS, Vite)](https://github.com/hbtch/vite-project.git)
 #### [Игра "Memory game" для благотворительного хакатона (HTML,CSS, Vanilla JS)](https://github.com/hbtch/pet-project-2.git)
+#### [Веб-сайт WildWeekend (HTML, CSS, JS)](https://github.com/hbtch/WildWeekend.git)
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
